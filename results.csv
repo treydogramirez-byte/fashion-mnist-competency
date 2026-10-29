@@ -1,0 +1,13 @@
+run,epoch,train_loss,val_loss,val_accuracy
+baseline,1,0.5643,0.4525,0.8391
+baseline,2,0.4162,0.4080,0.8600
+baseline,3,0.3740,0.3658,0.8675
+baseline,4,0.3443,0.3541,0.8730
+baseline,5,0.3215,0.3713,0.8660
+experiment,1,0.5202,0.4911,0.8210
+experiment,2,0.4182,0.4691,0.8187
+experiment,3,0.3876,0.4375,0.8476
+experiment,4,0.3671,0.3802,0.8634
+experiment,5,0.3602,0.3762,0.8685
+baseline,test,,,0.8561
+experiment,test,,,0.8550
